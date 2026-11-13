@@ -1,0 +1,8 @@
+{
+  "name": "okx-security-check",
+  "main": "worker.js",
+  "compatibility_date": "2025-01-01",
+  "vars": {
+    "PAY_TO": "0xad1e159d921186748713fddf40d722ea5aebe060"
+  }
+}
